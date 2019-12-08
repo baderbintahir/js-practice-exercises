@@ -589,7 +589,7 @@
 //////////////////////////
 //Coding Chellange
 
-//OOP approach
+//Way 1
 // class Town{
 //     constructor(name, buildYear){
 //         this.name = name;
@@ -679,7 +679,7 @@
 
 
 
-//Functional approach
+//Way 2
 class Town{
     constructor(name, buildYear){
         this.name = name;
